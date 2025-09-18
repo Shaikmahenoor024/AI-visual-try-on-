@@ -1,0 +1,5 @@
+{
+  "name": "AI Virtual Try-On",
+  "description": "An innovative web application that uses generative AI to allow users to virtually try on different outfits. Upload your photo, select an outfit, and let the AI create a photorealistic image of you wearing it.",
+  "requestFramePermissions": []
+}
